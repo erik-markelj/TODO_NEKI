@@ -1,0 +1,1 @@
+print("Jaz sem virus.")
